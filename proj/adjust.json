@@ -1,0 +1,310 @@
+{
+    "joint_Root": {
+        "joint_name": "joint_Root",
+        "alias_name": "joint_Root",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "Hips": {
+        "joint_name": "Hips",
+        "alias_name": "Hips",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": -90
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "BACK",
+            "Zrotation": "RIGHT"
+        }
+    },
+    "Spine": {
+        "joint_name": "Spine",
+        "alias_name": "Spine",
+        "vct_adjust_rot": {
+            "x": -60,
+            "y": 90,
+            "z": 30
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "Chest": {
+        "joint_name": "Chest",
+        "alias_name": "Chest",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "BACK"
+        }
+    },
+    "Neck": {
+        "joint_name": "Neck",
+        "alias_name": "Neck",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "BACK"
+        }
+    },
+    "Head": {
+        "joint_name": "Head",
+        "alias_name": "Head",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "NONE",
+            "Zrotation": "BACK"
+        }
+    },
+    "Shoulder_L": {
+        "joint_name": "Shoulder_L",
+        "alias_name": "Shoulder_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "UpperArm_L": {
+        "joint_name": "UpperArm_L",
+        "alias_name": "UpperArm_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "RIGHT",
+            "Yrotation": "BACK",
+            "Zrotation": "DOWN"
+        }
+    },
+    "LowerArm_L": {
+        "joint_name": "LowerArm_L",
+        "alias_name": "LowerArm_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "RIGHT",
+            "Yrotation": "BACK",
+            "Zrotation": "DOWN"
+        }
+    },
+    "Hand_L": {
+        "joint_name": "Hand_L",
+        "alias_name": "Hand_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "Shoulder_R": {
+        "joint_name": "Shoulder_R",
+        "alias_name": "Shoulder_R",
+        "vct_adjust_rot": {
+            "x": -120,
+            "y": 0,
+            "z": -60
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "UpperArm_R": {
+        "joint_name": "UpperArm_R",
+        "alias_name": "UpperArm_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 45
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "FORWARD",
+            "Zrotation": "LEFT"
+        }
+    },
+    "LowerArm_R": {
+        "joint_name": "LowerArm_R",
+        "alias_name": "LowerArm_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "LEFT",
+            "Yrotation": "FORWARD",
+            "Zrotation": "UP"
+        }
+    },
+    "Hand_R": {
+        "joint_name": "Hand_R",
+        "alias_name": "Hand_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "UpperLeg_L": {
+        "joint_name": "UpperLeg_L",
+        "alias_name": "UpperLeg_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 180
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "BACK",
+            "Zrotation": "RIGHT"
+        }
+    },
+    "LowerLeg_L": {
+        "joint_name": "LowerLeg_L",
+        "alias_name": "LowerLeg_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "BACK",
+            "Zrotation": "RIGHT"
+        }
+    },
+    "Foot_L": {
+        "joint_name": "Foot_L",
+        "alias_name": "Foot_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "Toes_L": {
+        "joint_name": "Toes_L",
+        "alias_name": "Toes_L",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "UpperLeg_R": {
+        "joint_name": "UpperLeg_R",
+        "alias_name": "UpperLeg_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 180,
+            "z": 180
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "FORWARD",
+            "Zrotation": "LEFT"
+        }
+    },
+    "LowerLeg_R": {
+        "joint_name": "LowerLeg_R",
+        "alias_name": "LowerLeg_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "UP",
+            "Yrotation": "FORWARD",
+            "Zrotation": "LEFT"
+        }
+    },
+    "Foot_R": {
+        "joint_name": "Foot_R",
+        "alias_name": "Foot_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 45,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    },
+    "Toes_R": {
+        "joint_name": "Toes_R",
+        "alias_name": "Toes_R",
+        "vct_adjust_rot": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "dict_axis": {
+            "Xrotation": "NONE",
+            "Yrotation": "NONE",
+            "Zrotation": "NONE"
+        }
+    }
+}
